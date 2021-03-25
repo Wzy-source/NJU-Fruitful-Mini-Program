@@ -1,5 +1,7 @@
 {
-  "usingComponents": {},
+  "usingComponents": {
+    "toolComponent":"/components/toolComponent/toolComponent"
+  },
   "navigationBarTitleText":"实用工具-春华秋实"
   
 

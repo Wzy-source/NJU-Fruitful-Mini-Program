@@ -1,1 +1,6 @@
 /* pages/tools/tools.wxss */
+.container{
+  display: block;
+  padding: 20rpx;
+  margin-bottom: 20rpx;
+}

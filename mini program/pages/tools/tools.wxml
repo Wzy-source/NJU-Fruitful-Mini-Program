@@ -1,2 +1,6 @@
 <!--pages/tools/tools.wxml-->
-<text>pages/tools/tools.wxml</text>
+<view class="container">
+<toolComponent></toolComponent>
+<toolComponent></toolComponent>
+</view>
+
