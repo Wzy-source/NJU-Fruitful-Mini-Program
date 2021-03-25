@@ -36,15 +36,17 @@ page{
 .dyItem{
   display: flex;
   padding: 15rpx 0;
-  border: 1rpx dashed;
+  border: 3rpx dashed;
   color: #f4f4f4;
-  justify-content: space-between;
+  
 }
 
 
 .dyItem .pic{
   width:230rpx;
   height: 150rpx;
+  margin-right: 25rpx;
+  
 }
 
 .dyItem .pic image{

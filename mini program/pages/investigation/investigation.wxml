@@ -10,7 +10,7 @@
   <view class="dyMain" wx:for="{{15}}">
   <navigator class="dyItem">
     <view class="pic">
-      <image>这里放图片</image>
+      <image src="https://profile.csdnimg.cn/B/F/6/2_weixin_38715008"></image>
     </view>
     <view class="txt">
       <view class="title">
@@ -21,7 +21,6 @@
         王子悦
         <text space="emsp">
         </text> 
-        
         <text>时间:</text>
         2020-09-01
       </view>
@@ -37,7 +36,7 @@
   <view class="dyMain" wx:for="{{15}}">
   <navigator class="dyItem">
     <view class="pic">
-      <image>这里放图片</image>
+      <image src="https://profile.csdnimg.cn/B/F/6/2_weixin_38715008"></image>
     </view>
     <view class="txt">
       <view class="title">
@@ -48,7 +47,6 @@
         王子悦
         <text space="emsp">
         </text> 
-        
         <text>时间:</text>
         2020-09-01
       </view>
