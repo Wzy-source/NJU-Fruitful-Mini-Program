@@ -9,7 +9,24 @@
     "navigationBarBackgroundColor": "#F80",
     "navigationBarTitleText": "NJU春华秋实",
     "navigationBarTextStyle":"black"
->>>>>>> Stashed changes
+  },
+  "tabBar": {
+    "color": "#808080",
+    "selectedColor": "#FF8B00",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/investigation/investigation",
+        "text": "调研"
+      },
+      {
+        "pagePath": "pages/tools/tools",
+        "text": "工具"
+      }
+    ]
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json"
