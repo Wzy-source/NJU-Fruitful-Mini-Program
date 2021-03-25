@@ -1,8 +1,63 @@
 <!--pages/investigation/investigation.wxml-->
-
-<scroll-view>
-<view class="scrollOut">
-<view class="scrollBox">asd</view>
-<view class="scrollBox">asd</view>
+<!--导航条-->
+<view class="navbar">
+  <text wx:for="{{navbar}}" data-idx="{{index}}" class="item {{currentTab==index ? 'active' : ''}}" wx:key="unique" bindtap="navbarTap">{{item}}</text>
 </view>
-</scroll-view>
+ 
+<!--宣传内容-->
+<view hidden="{{currentTab!==0}}">
+
+  <view class="dyMain" wx:for="{{15}}">
+  <navigator class="dyItem">
+    <view class="pic">
+      <image>这里放图片</image>
+    </view>
+    <view class="txt">
+      <view class="title">
+        这是一个标题
+      </view>
+      <view class="info">
+        <text>作者:</text>
+        王子悦
+        <text space="emsp">
+        </text> 
+        
+        <text>时间:</text>
+        2020-09-01
+      </view>
+    </view>
+  </navigator>
+</view>
+
+</view>
+ 
+<!--成果展示-->
+<view hidden="{{currentTab!==1}}">
+
+  <view class="dyMain" wx:for="{{15}}">
+  <navigator class="dyItem">
+    <view class="pic">
+      <image>这里放图片</image>
+    </view>
+    <view class="txt">
+      <view class="title">
+        这不是一个标题
+      </view>
+      <view class="info">
+        <text>作者:</text>
+        王子悦
+        <text space="emsp">
+        </text> 
+        
+        <text>时间:</text>
+        2020-09-01
+      </view>
+    </view>
+  </navigator>
+</view>
+</view>
+ 
+
+
+
+
