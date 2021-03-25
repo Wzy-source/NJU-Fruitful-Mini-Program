@@ -16,15 +16,21 @@
     "list": [
       {
         "pagePath": "pages/index/index",
-        "text": "首页"
+        "text": "首页",
+        "iconPath": "images/index.png",
+        "selectedIconPath": "images/index-h.png"
       },
       {
         "pagePath": "pages/investigation/investigation",
-        "text": "调研"
+        "text": "调研",
+        "iconPath": "images/investigation.png",
+        "selectedIconPath": "images/investigation-h.png"
       },
       {
         "pagePath": "pages/tools/tools",
-        "text": "工具"
+        "text": "工具",
+        "iconPath": "images/tools.png",
+        "selectedIconPath": "images/tools-h.png"
       }
     ]
   },
