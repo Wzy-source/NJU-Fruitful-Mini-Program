@@ -1,2 +1,8 @@
 <!--pages/investigation/investigation.wxml-->
-<text>pages/investigation/investigation.wxml</text>
+
+<scroll-view>
+<view class="scrollOut">
+<view class="scrollBox">asd</view>
+<view class="scrollBox">asd</view>
+</view>
+</scroll-view>

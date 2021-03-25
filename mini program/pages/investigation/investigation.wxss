@@ -1,1 +1,13 @@
 /* pages/investigation/investigation.wxss */
+
+
+.scrollOut{
+  border: 10rpx,solid,red;
+  display: flex;
+}
+.scrollBox{
+  width: 100rpx;
+  height: 100rpx;
+  background-color: yellow;
+
+}
