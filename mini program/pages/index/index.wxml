@@ -16,5 +16,11 @@
 <!-- 资讯区域 -->
 <view class="informationContainer">
   <text class="header">资讯</text>
+</view>
 
+<view>
+  <passageComponent></passageComponent>
+  <passageComponent></passageComponent>
+  <passageComponent></passageComponent>
+  <passageComponent></passageComponent>
 </view>

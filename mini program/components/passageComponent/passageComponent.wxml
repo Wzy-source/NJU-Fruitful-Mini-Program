@@ -1,0 +1,8 @@
+<!--components/passageComponent/passageComponent.wxml-->
+<view class="container">
+  <image src="{{imageUrl}}"></image>
+  <view class="passageContainer">
+  <text class="title">{{title}}</text>
+  <text class="passage">{{passage}}</text>
+  </view>
+</view>

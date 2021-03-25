@@ -1,0 +1,30 @@
+/* components/passageComponent/passageComponent.wxss */
+.container{
+  display:flex;
+}
+
+.container image{
+  width: 200rpx;
+  height: 200rpx;
+  padding: 20rpx;
+}
+.container .passageContainer{
+  display: grid;
+}
+
+.container .passageContainer .title{
+  display:grid;
+  align-content: center;
+  font-size: 36rpx;
+}
+
+.container .passageContainer .passage{
+  display:-webkit-box;
+  font-size:20rpx;
+  overflow:hidden;
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+  width: 450rpx;
+  height: 100rpx;
+}

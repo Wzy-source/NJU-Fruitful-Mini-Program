@@ -1,14 +1,14 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
     "pages/tools/tools",
     "pages/investigation/investigation"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#F80",
     "navigationBarTitleText": "NJU春华秋实",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle": "white"
   },
   "tabBar": {
     "color": "#808080",

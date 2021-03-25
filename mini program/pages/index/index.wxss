@@ -18,3 +18,7 @@
   padding: 20rpx;
   display:flex;
 }
+.informationContainer .header{
+  font-size: 40rpx;
+}
+
