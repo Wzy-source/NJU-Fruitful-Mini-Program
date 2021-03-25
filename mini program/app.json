@@ -4,13 +4,14 @@
     "pages/tools/tools",
     "pages/investigation/investigation"
   ],
+
   "window":{
     "backgroundTextStyle":"dark",
     "navigationBarBackgroundColor": "#F80",
     "navigationBarTitleText": "NJU春华秋实",
     "navigationBarTextStyle":"black",
     "enablePullDownRefresh":true
-    
+
   },
   "tabBar": {
     "color": "#808080",
