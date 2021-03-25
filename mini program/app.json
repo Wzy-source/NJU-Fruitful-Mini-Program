@@ -1,11 +1,11 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/logs/logs",
     "pages/tools/tools",
     "pages/investigation/investigation"
   ],
   "window":{
+<<<<<<< Updated upstream
     "backgroundTextStyle":"dark",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "Weixin",
@@ -30,6 +30,12 @@
         "text": "工具"
       }
     ]
+=======
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#F80",
+    "navigationBarTitleText": "NJU春华秋实",
+    "navigationBarTextStyle":"black"
+>>>>>>> Stashed changes
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json"
