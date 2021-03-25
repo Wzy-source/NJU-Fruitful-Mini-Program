@@ -5,10 +5,12 @@
     "pages/investigation/investigation"
   ],
   "window":{
-    "backgroundTextStyle":"light",
+    "backgroundTextStyle":"dark",
     "navigationBarBackgroundColor": "#F80",
     "navigationBarTitleText": "NJU春华秋实",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh":true
+    
   },
   "tabBar": {
     "color": "#808080",
