@@ -6,27 +6,9 @@
  
 <!--宣传内容-->
 <view hidden="{{currentTab!==0}}">
-
   <view class="dyMain" wx:for="{{15}}">
-  <navigator class="dyItem">
-    <view class="pic">
-      <image src="https://profile.csdnimg.cn/B/F/6/2_weixin_38715008"></image>
+    <investComponent title="这是标题嘎嘎嘎" author="王子悦" time="2020-09-01" imgUrl="https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png"/>
     </view>
-    <view class="txt">
-      <view class="title">
-        这是一个标题
-      </view>
-      <view class="info">
-        <text>作者:</text>
-        王子悦
-        <text space="emsp">
-        </text> 
-        <text>时间:</text>
-        2020-09-01
-      </view>
-    </view>
-  </navigator>
-</view>
 
 </view>
  
@@ -34,25 +16,10 @@
 <view hidden="{{currentTab!==1}}">
 
   <view class="dyMain" wx:for="{{15}}">
-  <navigator class="dyItem">
-    <view class="pic">
-      <image src="https://profile.csdnimg.cn/B/F/6/2_weixin_38715008"></image>
-    </view>
-    <view class="txt">
-      <view class="title">
-        这不是一个标题
-      </view>
-      <view class="info">
-        <text>作者:</text>
-        王子悦
-        <text space="emsp">
-        </text> 
-        <text>时间:</text>
-        2020-09-01
-      </view>
-    </view>
-  </navigator>
+    <investComponent title="这是标题嘻嘻嘻" author="王子悦" time="2020-09-01" imgUrl="https://i0.hdslb.com/bfs/face/0f1b74ba7ce1b4fcd473d0ad44c833cda80e9d4a.jpg@140w_140h_1c.webp"/>
+  
 </view>
+
 </view>
  
 

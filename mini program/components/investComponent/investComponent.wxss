@@ -1,0 +1,42 @@
+/* components/investComponent/investComponent.wxss */
+
+.dyItem{
+  display: flex;
+  padding: 15rpx 0;
+  border: 3rpx dashed;
+  color: #f4f4f4;
+  
+}
+
+.dyItem .pic{
+  width:230rpx;
+  height: 150rpx;
+  margin-right: 25rpx;
+  
+}
+
+.dyItem .pic image{
+  width: 100%;
+  height: 100%;
+}
+
+.dyItem .txt{
+  width:440rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.dyItem .title{
+  color: black;
+  font-size: 34rpx;
+}
+
+.dyItem .info{
+  font-size: 22rpx;
+  color: #888;
+}
+
+.dyItem .info text{
+  font-size: 22rpx;
+}

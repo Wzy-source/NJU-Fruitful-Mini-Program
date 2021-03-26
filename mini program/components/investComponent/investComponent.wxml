@@ -1,0 +1,19 @@
+<!--components/investComponent/investComponent.wxml-->
+<navigator class="dyItem">
+    <view class="pic">
+      <image src="{{imgUrl}}"></image>
+    </view>
+    <view class="txt">
+      <view class="title">
+        {{title}}
+      </view>
+      <view class="info">
+        <text>作者:</text>
+        {{author}}
+        <text space="emsp">
+        </text> 
+        <text>时间:</text>
+        {{time}}
+      </view>
+    </view>
+  </navigator>
