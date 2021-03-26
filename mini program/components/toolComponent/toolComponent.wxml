@@ -1,8 +1,8 @@
 <!--components/toolComponent/toolComponent.wxml-->
-<view class="container">
+<navigator class="container" url="{{navigateUrl}}">
   <image src="{{imageUrl}}"></image>
   <view class="passageContainer">
   <text class="title">{{toolName}}</text>
   <text class="passage">{{intruction}}</text>
   </view>
-</view>
+</navigator>

@@ -19,6 +19,10 @@ Component({
     imgUrl:{
       type:String,
       value:""
+    },
+    navigateUrl:{
+      type:String,
+      value:""
     }
 
   },

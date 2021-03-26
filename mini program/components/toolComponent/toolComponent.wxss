@@ -1,7 +1,7 @@
 /* components/toolComponent/toolComponent.wxss */
 
 .container{
-  background-color: khaki;
+  background-color:rgb(255, 139, 0);
   display:flex;
   margin-top: 20rpx;
   margin-bottom: 20rpx;

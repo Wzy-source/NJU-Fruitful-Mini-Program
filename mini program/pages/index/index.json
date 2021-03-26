@@ -1,6 +1,6 @@
 {
   "usingComponents": {
-    "passageComponent":"/components/passageComponent/passageComponent"
+    "investComponent":"/components/investComponent/investComponent"
   },
   "navigationBarTitleText":"NJU春华秋实"
 }

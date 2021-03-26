@@ -26,5 +26,5 @@
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 4;
   width: 450rpx;
-  height: 100rpx;
+  height: 105rpx;
 }
