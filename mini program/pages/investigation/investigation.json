@@ -1,6 +1,7 @@
 {
   "usingComponents": {
-    "investComponent":"../../components/investComponent/investComponent"
+    "investComponent":"../../components/investComponent/investComponent",
+    "headerLogo":"/components/headerLogo/headerLogo"
   },
   "navigationBarTitleText":"实践调研-NJU春华秋实"
   

@@ -1,5 +1,7 @@
 <!--pages/tools/tools.wxml-->
+<headerLogo/>
 <view class="container">
+
 <toolComponent></toolComponent>
 <toolComponent></toolComponent>
 </view>

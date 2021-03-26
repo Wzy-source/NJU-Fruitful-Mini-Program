@@ -1,0 +1,33 @@
+/* components/headerLogo/headerLogo.wxss */
+
+.headerBox{
+  width: 750rpx;
+  height: 90rpx;
+  /* border:1px solid red; */
+  background-color: rgb(243, 231, 209);
+  
+}
+.logoContainer{
+  padding: 0 10rpx;
+  box-sizing: border-box;
+  /* 重要：弹性盒模型中水平居中的方法：
+  align-items: center;
+  height: 100%;
+  display: flex;
+  一定要设置height为100%（继承了父组件的高度）
+  
+   */
+
+  align-items: center;
+  height: 100%;
+  display: flex;
+
+}
+
+.logoContainer navigator{
+  height: 70rpx;
+}
+
+.logoContainer navigator image{
+  height: 100%;
+}

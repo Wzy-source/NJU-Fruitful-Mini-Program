@@ -1,6 +1,8 @@
-<view class="logoContainer">
-  <image src="/images/logo.png"></image>
-</view>
+
+
+<!-- logo区域 -->
+<headerLogo/>
+
 <!-- 轮播图区域 -->
  <view class="indexContainer">
   <swiper class="banners" indicator-dots="true" circular="true" autoplay="true" indicator-color="ivory" indicator-active-color="#f80">

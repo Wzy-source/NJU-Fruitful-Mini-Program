@@ -1,0 +1,9 @@
+<!--components/headerLogo/headerLogo.wxml-->
+
+<view class="headerBox">
+  <view class="logoContainer">
+    <navigator class="logo" url="/pages/index/index" open-type="switchTab">
+      <image mode="heightFix" src="/images/logo.png"></image>
+    </navigator>
+  </view>
+</view>
