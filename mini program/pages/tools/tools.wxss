@@ -1,6 +1,15 @@
 /* pages/tools/tools.wxss */
 .container{
+
+  
   display: block;
   padding: 20rpx;
   margin-bottom: 20rpx;
+  
+}
+
+
+/* 所有组件都是建立在page盒子中的，只用page即可设置页面背景色 */
+page{
+  background-color: whitesmoke;
 }

@@ -1,7 +1,7 @@
 <!--components/investComponent/investComponent.wxml-->
 <navigator class="dyItem" url="{{navigateUrl}}">
     <view class="pic">
-      <image src="{{imgUrl}}"></image>
+      <image src="{{imgUrl}}" ></image>
     </view>
     <view class="txt">
       <view class="title">

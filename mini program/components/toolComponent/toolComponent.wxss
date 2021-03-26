@@ -1,20 +1,34 @@
 /* components/toolComponent/toolComponent.wxss */
 
 .container{
-  background-color:rgb(255, 139, 0);
-  display:flex;
+  background-color: silver;
   margin-top: 20rpx;
   margin-bottom: 20rpx;
-  border:1rpx solid black;
+  border:1rpx solid gainsboro;
+  border-radius: 30rpx;
+  align-items: center;
+  height: 250rpx;
+  display: flex;
+
+
+
+  
 }
 
-.container image{
+.container .toolImg{
+  border:1rpx solid palegoldenrod;
+  height: 80%;
   width: 200rpx;
-  height: 200rpx;
-  padding: 20rpx;
+  margin-left: 20rpx;
+  
+  border-radius: 15rpx;
+
 }
 .container .passageContainer{
+  margin-left: 20rpx;
+  margin-right: 10rpx;
   display: grid;
+  
 }
 
 .container .passageContainer .title{

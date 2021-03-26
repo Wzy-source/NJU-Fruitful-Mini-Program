@@ -12,7 +12,6 @@
   width:230rpx;
   height: 150rpx;
   margin-right: 25rpx;
-  
 }
 
 .dyItem .pic image{
