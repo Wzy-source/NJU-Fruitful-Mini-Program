@@ -15,7 +15,11 @@ Component({
       intruction:{
         type:String,
         value:"简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介"
-      }
+      } ,
+    navigateUrl:{
+      type:String,
+      value:""
+    }
   },
 
   /**
