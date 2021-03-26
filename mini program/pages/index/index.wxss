@@ -24,3 +24,48 @@
   font-size: 40rpx;
 }
 
+
+
+
+
+.pubTitle{
+  display: flex;
+  height: 60rpx;
+  width: 100%;
+  
+
+  
+}
+
+.pubTitle .txt{
+  font-size: 35rpx;
+  height: 100%;
+  position: relative;
+  padding-left: 20rpx;
+  padding-top: 8rpx;
+  
+}
+
+.pubTitle .txt::before{
+  display: block;
+  width: 8rpx;
+  height: 30rpx;
+  background-color: #FF8B00;
+  /* content必须要加 */
+  content:"";  
+  position: absolute;
+  left: 0;
+  top: 50%;
+  margin-top: -19rpx;
+}
+
+.news{
+  display: flex;
+  flex-wrap: wrap;
+  background-color:whitesmoke ;
+  padding:25rpx 0 40rpx;
+
+}
+
+
+

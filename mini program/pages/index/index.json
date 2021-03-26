@@ -1,7 +1,8 @@
 {
   "usingComponents": {
     "investComponent":"/components/investComponent/investComponent",
-    "headerLogo":"/components/headerLogo/headerLogo"
+    "headerLogo":"/components/headerLogo/headerLogo",
+    "newsComponent":"/components/newsComponent/newsComponent"
   },
   "navigationBarTitleText":"NJU春华秋实"
 }

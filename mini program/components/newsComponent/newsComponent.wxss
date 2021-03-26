@@ -1,0 +1,44 @@
+/* components/newsComponent/newsComponent.wxss */
+.newsBox{
+  float: left;
+  margin-left: 10rpx;
+  margin-top: 20rpx;
+  margin-right:10rpx;
+  position: relative;
+  width: 350rpx;
+  height: 500rpx;
+  border-radius: 15rpx;
+  background-color: snow;
+
+}
+
+.newsBox .newsImg{
+width: 100%;
+height: 350rpx;
+
+border-radius: 15rpx;
+
+}
+
+.newsBox .newsTxt{
+
+display: block;
+position: absolute;
+left: 0;
+width: 100%;
+}
+
+.newsBox .newsTxt .newsTitle{
+text-align: left;
+font-size: 30rpx;
+padding: 10rpx;
+height: 78rpx;
+
+width: 100%;
+}
+.newsBox .newsTxt .newsTime{
+font-size: 22rpx;
+color: #888;
+text-align: right;
+padding-right: 12rpx;
+}

@@ -19,13 +19,12 @@
 </view>
 
 <!-- 资讯区域 -->
-<view class="informationContainer">
-  <text class="header">资讯</text>
-</view>
+<view class="news">
+  <view class="pubTitle">
+    <view class="txt">最新资讯</view>
+  </view>
+  <view class="wkmain" wx:for="{{8}}">
+    <newsComponent myNewsTime="2021-09-11" myNewsTitle = "这是一个表头这是一个表头这是一个表头" myNewsImgUrl="https://gw.alicdn.com/bao/uploaded/i4/3993790524/O1CN01DDNVml1Fk29dfXebq_!!0-item_pic.jpg"/>
 
-<view>
-  <investComponent title="这是标题嘻嘻嘻" author="小憨批" time="2020-09-01" imgUrl="https://i0.hdslb.com/bfs/face/0f1b74ba7ce1b4fcd473d0ad44c833cda80e9d4a.jpg@140w_140h_1c.webp"/>
-  <investComponent title="这是标题嘻嘻嘻" author="小憨批" time="2020-09-01" imgUrl="https://i0.hdslb.com/bfs/face/0f1b74ba7ce1b4fcd473d0ad44c833cda80e9d4a.jpg@140w_140h_1c.webp"/>
-  <investComponent title="这是标题嘻嘻嘻" author="小憨批" time="2020-09-01" imgUrl="https://i0.hdslb.com/bfs/face/0f1b74ba7ce1b4fcd473d0ad44c833cda80e9d4a.jpg@140w_140h_1c.webp"/>
-  <investComponent title="这是标题嘻嘻嘻" author="小憨批" time="2020-09-01" imgUrl="https://i0.hdslb.com/bfs/face/0f1b74ba7ce1b4fcd473d0ad44c833cda80e9d4a.jpg@140w_140h_1c.webp"/>
+  </view>
 </view>

@@ -7,7 +7,7 @@ page{
 .navbar{
   flex: none;
   display: flex;
-  background: #fff;
+  background:snow;
 }
 .navbar .item{
   position: relative;

@@ -3,7 +3,7 @@
 .dyItem{
   display: flex;
   padding: 15rpx 0;
-  border: 3rpx dashed;
+  border: 2rpx dashed;
   color: #f4f4f4;
   
 }

@@ -1,0 +1,8 @@
+<!--components/newsComponent/newsComponent.wxml-->
+<navigator class="newsBox">
+      <image class="newsImg" src="{{myNewsImgUrl}}"></image>
+      <view class="newsTxt">
+        <view class="newsTitle">{{myNewsTitle}}</view>
+        <view class="newsTime">时间：{{myNewsTime}}</view>
+      </view>
+    </navigator>
