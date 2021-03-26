@@ -1,4 +1,7 @@
 {
-  "usingComponents": {},
+  "usingComponents": {
+    "investComponent":"../../components/investComponent/investComponent"
+  },
   "navigationBarTitleText":"实践调研-春华秋实"
+  
 }
