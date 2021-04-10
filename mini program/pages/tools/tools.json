@@ -1,7 +1,8 @@
 {
   "usingComponents": {
     "toolComponent":"/components/toolComponent/toolComponent",
-    "headerLogo":"/components/headerLogo/headerLogo"
+    "headerLogo":"/components/headerLogo/headerLogo",
+    "footerLogo":"/components/footerLogo/footerLogo"
   },
   "navigationBarTitleText":"实用工具-NJU春华秋实"
   

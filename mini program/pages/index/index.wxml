@@ -7,13 +7,13 @@
  <view class="indexContainer">
   <swiper class="banners" indicator-dots="true" circular="true" autoplay="true" indicator-color="ivory" indicator-active-color="#f80">
     <swiper-item>
-      <image src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1391354859,1949870536&fm=26&gp=0.jpg" mode="scaleToFill"></image>
+      <image src="https://dss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1092770479,843230546&fm=26&gp=0.jpg" mode="scaleToFill"></image>
     </swiper-item>
     <swiper-item>
-      <image src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1391354859,1949870536&fm=26&gp=0.jpg" mode="scaleToFill"></image>
+      <image src="https://dss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1092770479,843230546&fm=26&gp=0.jpg" mode="scaleToFill"></image>
     </swiper-item>
     <swiper-item>
-      <image src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1391354859,1949870536&fm=26&gp=0.jpg" mode="scaleToFill"></image>
+      <image src="https://dss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1092770479,843230546&fm=26&gp=0.jpg" mode="scaleToFill"></image>
     </swiper-item>
   </swiper>
 </view>
@@ -24,7 +24,9 @@
     <view class="txt">最新资讯</view>
   </view>
   <view class="wkmain" wx:for="{{8}}">
-    <newsComponent myNewsTime="2021-09-11" myNewsTitle = "这是一个表头这是一个表头这是一个表头" myNewsImgUrl="https://gw.alicdn.com/bao/uploaded/i4/3993790524/O1CN01DDNVml1Fk29dfXebq_!!0-item_pic.jpg"/>
+    <newsComponent myNewsTime="2021-09-11" myNewsTitle = "此处为最新资讯的标题" myNewsImgUrl="https://dss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3219824222,588074158&fm=26&gp=0.jpg"/>
 
   </view>
 </view>
+
+<footerLogo/>

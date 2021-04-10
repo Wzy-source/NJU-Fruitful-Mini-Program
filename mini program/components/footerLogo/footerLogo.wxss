@@ -1,0 +1,12 @@
+/* components/footerLogo/footerLogo.wxss */
+.footerLogo{
+  
+  background-color: white;
+  text-align: center;
+  margin-top: 30rpx;
+  
+  margin-bottom: 30rpx;
+}
+.footerLogo .pic{
+  width: 200rpx;
+}

@@ -8,7 +8,7 @@
 <!--宣传内容-->
 <view hidden="{{currentTab!==0}}">
   <view class="dyMain" wx:for="{{15}}">
-    <investComponent title="这是标题嘎嘎嘎" author="王子悦" time="2020-09-01" imgUrl="https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png"/>
+    <investComponent title="此处为宣传内容的标题" author="文章作者" time="2020-09-01" imgUrl="https://dss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2534161456,3690608046&fm=26&gp=0.jpg"/>
     </view>
 
 </view>
@@ -24,6 +24,6 @@
 </view>
  
 
-
+<footerLogo/>
 
 

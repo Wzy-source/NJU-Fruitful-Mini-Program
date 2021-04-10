@@ -1,0 +1,5 @@
+<!--components/footerLogo/footerLogo.wxml-->
+<view class="footerLogo">
+  <!-- 新增底部模块 -->
+  <image class = "pic" mode="widthFix"src="../../images/logo.png"></image>
+</view>
