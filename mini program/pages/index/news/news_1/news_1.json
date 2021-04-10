@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "footerLogo":"/components/footerLogo/footerLogo",
+    "newsHeader":"/components/newsHeader/newsHeader"
+  },
+  "navigationBarTitleText":"这里将填入新闻标题"
+}

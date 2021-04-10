@@ -1,5 +1,5 @@
 <!--components/newsComponent/newsComponent.wxml-->
-<navigator class="newsBox">
+<navigator class="newsBox" url="{{myNewsContentUrl}}">
       <image class="newsImg" src="{{myNewsImgUrl}}"></image>
       <view class="newsTxt">
         <view class="newsTitle">{{myNewsTitle}}</view>

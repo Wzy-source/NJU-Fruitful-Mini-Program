@@ -1,26 +1,22 @@
-// components/newsComponent/newsComponent.js
+// components/newsHeader/newsHeader.js
 Component({
   /**
    * 组件的属性列表
    */
   properties: {
-    myNewsTime:{
+    newsTitle:{
       type:String,
       value:""
     },
-    myNewsTitle:{
+    newsTime:{
       type:String,
       value:""
     },
-    myNewsImgUrl:{
+    newsSource:{
       type:String,
       value:""
-    },
-    myNewsContentUrl:{
-      type:String,
-      value:""
-    }
 
+    }
 
   },
 

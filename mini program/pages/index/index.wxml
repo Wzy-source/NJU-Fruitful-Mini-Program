@@ -24,7 +24,9 @@
     <view class="txt">最新资讯</view>
   </view>
   <view class="wkmain" wx:for="{{8}}">
-    <newsComponent myNewsTime="2021-09-11" myNewsTitle = "此处为最新资讯的标题" myNewsImgUrl="https://dss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3219824222,588074158&fm=26&gp=0.jpg"/>
+    <newsComponent myNewsTime="2021-09-11" myNewsTitle = "此处为最新资讯的标题" myNewsImgUrl="https://dss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3219824222,588074158&fm=26&gp=0.jpg"
+    myNewsContentUrl="./news/news_1/news_1"
+    />
 
   </view>
 </view>

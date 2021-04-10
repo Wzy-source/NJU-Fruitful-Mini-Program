@@ -2,9 +2,10 @@
 .footerLogo{
   
   background-color: white;
-  text-align: center;
+  /* display：flex + justify-content: center; 弹性盒子内容物水平居中 */
+  display: flex;
+  justify-content: center;
   margin-top: 30rpx;
-  
   margin-bottom: 30rpx;
 }
 .footerLogo .pic{

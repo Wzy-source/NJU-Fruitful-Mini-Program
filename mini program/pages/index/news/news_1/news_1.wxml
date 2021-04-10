@@ -1,0 +1,15 @@
+<!--pages/index/news/news_1/news_1.wxml-->
+<view class="panel">
+
+  <!-- 头部组件 -->
+  <view class="newsContainer">
+    <newsHeader newsTitle="示例标题" newsTime="示例时间" newsSource = "示例来源"/>
+    
+    <!-- 新闻内容 -->
+    <view class="news_1Content">  
+
+    </view>
+  </view>
+</view>
+<footerLogo/>
+

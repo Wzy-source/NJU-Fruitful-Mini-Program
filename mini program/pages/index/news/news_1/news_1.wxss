@@ -1,0 +1,14 @@
+/* pages/index/news/news_1/news_1.wxss */
+
+.panel{
+  justify-content: center;
+  display: flex;
+  
+}
+
+.newsContainer{
+  border: solid red;
+  margin-top: 10rpx;
+  width: 95%;
+  
+}
