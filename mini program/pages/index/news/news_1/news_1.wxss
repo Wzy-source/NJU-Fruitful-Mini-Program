@@ -1,6 +1,7 @@
 /* pages/index/news/news_1/news_1.wxss */
 
 .panel{
+  background-color:whitesmoke;
   justify-content: center;
   display: flex;
   
@@ -10,5 +11,4 @@
   border: solid red;
   margin-top: 10rpx;
   width: 95%;
-  
 }

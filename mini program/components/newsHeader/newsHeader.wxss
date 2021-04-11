@@ -1,4 +1,19 @@
 /* components/newsHeader/newsHeader.wxss */
 .newsHeaderTxt{
+  font-size: 38rpx;
+
   
+}
+.newsInfo{
+  margin-top: 15rpx;
+font-size: 25rpx;
+color: #888;
+}
+
+.newsInfo .newsTime{
+  text-align: left;
+}
+
+.newsInfo .newsSource{
+  padding-left: 30rpx;
 }

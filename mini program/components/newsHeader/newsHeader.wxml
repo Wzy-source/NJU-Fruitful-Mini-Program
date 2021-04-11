@@ -3,6 +3,7 @@
         <view class="newsTitle">{{newsTitle}}</view>
         <view class="newsInfo">
           <text class="newsTime">发布时间：{{newsTime}}</text>
+          
           <text class="newsSource">文章来源：{{newsSource}}</text>
         </view>
 </view>
