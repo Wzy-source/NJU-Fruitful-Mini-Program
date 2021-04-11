@@ -1,0 +1,8 @@
+<!--components/navigationBarComp/navigationBarComp.wxml-->
+<navigator url="{{url}}">
+  <view class="image">
+    <image src="{{imageSrc}}" ></image>
+  </view>
+  
+  <text>{{text}}</text>
+</navigator>

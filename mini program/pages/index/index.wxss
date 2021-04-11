@@ -24,7 +24,12 @@
   font-size: 40rpx;
 }
 
-
+.navigatorBar{
+  display: flex;
+} 
+.navigatorBar navigationBarComp{
+  width: 20%;
+}
 
 
 

@@ -17,7 +17,14 @@
     </swiper-item>
   </swiper>
 </view>
-
+<!-- 导航栏部分 -->
+<view class="navigatorBar">
+  <navigationBarComp imageSrc="/images/项目.png" text="项目简介" />
+  <navigationBarComp imageSrc="/images/我们团队.png" text="关于我们" />
+  <navigationBarComp imageSrc="/images/政策宣传.png" text="宣传内容" />
+  <navigationBarComp imageSrc="/images/微信-宣传展示.png" text="成果展示" />
+  <navigationBarComp imageSrc="/images/工具.png" text="实用工具" />
+</view>
 <!-- 资讯区域 -->
 <view class="news">
   <view class="pubTitle">

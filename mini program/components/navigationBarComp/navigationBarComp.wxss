@@ -1,0 +1,26 @@
+/* components/navigationBarComp/navigationBarComp.wxss */
+navigator{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+navigator text{
+  size: 20rpx;
+  align-items: center;
+}
+
+navigator .image{
+  height: 120rpx;
+  width: 120rpx;
+  border:1rpx solid black;
+  border-radius: 50rpx; 
+  display: flex;
+  align-items: center;
+}
+navigator .image image{
+  height: 75%;
+  width: 75%;
+  margin: auto;
+}

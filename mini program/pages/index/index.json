@@ -3,7 +3,8 @@
     "investComponent":"/components/investComponent/investComponent",
     "headerLogo":"/components/headerLogo/headerLogo",
     "newsComponent":"/components/newsComponent/newsComponent",
-    "footerLogo":"/components/footerLogo/footerLogo"
+    "footerLogo":"/components/footerLogo/footerLogo",
+    "navigationBarComp":"/components/navigationBarComp/navigationBarComp"
   },
   "navigationBarTitleText":"NJU春华秋实"
 }
