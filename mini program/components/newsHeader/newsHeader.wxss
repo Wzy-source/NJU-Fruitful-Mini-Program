@@ -1,8 +1,6 @@
 /* components/newsHeader/newsHeader.wxss */
 .newsHeaderTxt{
   font-size: 38rpx;
-
-  
 }
 .newsInfo{
   margin-top: 15rpx;
