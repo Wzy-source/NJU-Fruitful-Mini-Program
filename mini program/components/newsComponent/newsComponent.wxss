@@ -21,9 +21,7 @@ border-radius: 15rpx;
 }
 
 .newsBox .newsTxt{
-
 display: block;
-position: absolute;
 left: 0;
 width: 99%;
 }
