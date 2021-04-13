@@ -1,0 +1,41 @@
+<view class="page-body">
+  <headerLogo/>
+  <!-- 文章头部内容 -->
+  <view class="page-header">
+    <newsHeader newsTitle="关于我们" newsTime="2021/4/13" newsSource = "春华秋实团队"/>
+  </view>
+  <!-- map前面内容 -->
+  <view class="head-content">
+    <text space="emsp" class="headText">{{headText}}</text>
+
+  
+  </view>
+  <!-- map内容 -->
+  <view class="mapContainer">
+    <text class="mapAns">>>点击标记点来认识ta</text>
+    <map 
+    class="myMap"
+    latitude="{{latitude}}"
+    longitude="{{longitude}}"
+    markers="{{markers}}"
+    scale="4.0"
+    min-scale="3.2"
+    max-scale = "7.5"
+    bindmarkertap = "jumpTeamInfo"
+
+
+    >
+
+    </map>
+  </view>
+  <!-- map后面内容 -->
+  <view class="after-content">
+
+
+  
+  
+  </view>
+
+
+
+</view>

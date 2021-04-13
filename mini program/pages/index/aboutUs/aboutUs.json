@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "headerLogo":"/components/headerLogo/headerLogo",
+    "newsHeader":"/components/newsHeader/newsHeader"
+
+  }
+}

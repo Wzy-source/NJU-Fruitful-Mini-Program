@@ -1,5 +1,5 @@
 <!--components/navigationBarComp/navigationBarComp.wxml-->
-<navigator class="barComp" url="{{url}}">
+<navigator class="barComp" url="{{url}}" open-type="{{type}}">
   <view class="image">
     <image src="{{imageSrc}}" ></image>
   </view>

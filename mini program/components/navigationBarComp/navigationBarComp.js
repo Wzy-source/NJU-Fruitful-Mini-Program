@@ -5,14 +5,19 @@ Component({
    */
   properties: {
       url:{
-        type:String
+        type:String,
+        value:""
       },
       imageSrc:{
         type:String
       },
       text:{
         type:String,
-        value:"???"
+        value:""
+      },
+      type:{
+        type:String,
+        value:""
       }
   },
 

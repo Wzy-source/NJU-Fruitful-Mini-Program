@@ -23,11 +23,11 @@
     <view class="txt">快捷导航</view>
   </view>
   <view class="BarCompsBox">
-  <navigationBarComp imageSrc="/images/project.png" text="项目简介" />
-  <navigationBarComp imageSrc="/images/ourTeam.png" text="关于我们" />
-  <navigationBarComp imageSrc="/images/propaganda.png" text="宣传内容" />
-  <navigationBarComp imageSrc="/images/Exhibition.png" text="成果展示" />
-  <navigationBarComp imageSrc="/images/userfulTools.png" text="实用工具" />
+  <navigationBarComp imageSrc="/images/project.png" text="项目简介" url=""/>
+  <navigationBarComp imageSrc="/images/ourTeam.png" text="关于我们" url="./aboutUs/aboutUs" type="navigate" />
+  <navigationBarComp imageSrc="/images/propaganda.png" text="宣传内容" url = "../investigation/investigation" type="switchTab" />
+  <navigationBarComp imageSrc="/images/Exhibition.png" text="成果展示" url = "../investigation/investigation" type="switchTab" />
+  <navigationBarComp imageSrc="/images/userfulTools.png" text="实用工具" type="switchTab" url="../tools/tools" />
   </view>
 </view>
 <!-- 资讯区域 -->

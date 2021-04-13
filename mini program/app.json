@@ -3,7 +3,8 @@
     "pages/index/index",
     "pages/tools/tools",
     "pages/investigation/investigation",
-    "pages/index/news/news_1/news_1"
+    "pages/index/news/news_1/news_1",
+    "pages/index/aboutUs/aboutUs"
     
   ],
   "window": {

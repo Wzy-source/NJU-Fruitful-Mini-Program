@@ -1,0 +1,31 @@
+/* pages/index/aboutUs/aboutUs.wxss */
+
+.page-header{
+  border: solid red;
+  margin-top: 10rpx;
+}
+.mapContainer{
+  margin-top: 20rpx;
+  height: 300px;
+  width: 100%;
+}
+
+.mapContainer .myMap{
+  height: 100%;
+  width: 100%;
+}
+
+.head-content{
+  margin-top: 10rpx;
+  border: solid green;
+
+}
+
+.head-content .headText{
+  font-size: 32rpx;
+}
+
+.mapContainer .mapAns{
+  color: coral ;
+  font-size: 28rpx;
+}
