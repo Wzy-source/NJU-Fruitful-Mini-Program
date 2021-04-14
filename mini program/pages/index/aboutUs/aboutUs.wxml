@@ -22,19 +22,28 @@
     min-scale="3.2"
     max-scale = "7.5"
     bindmarkertap = "jumpTeamInfo"
-
-
     >
-
     </map>
   </view>
   <!-- map后面内容 -->
   <view class="after-content">
+      <scroll-view class="scroll" scroll-x="true">
+          <aboutUsComp imageSrc="/images/index-h.png" text="名字" bindtap="changeInformation"> </aboutUsComp>
+          <aboutUsComp imageSrc="/images/index-h.png" text="名字"> </aboutUsComp>
+          <aboutUsComp imageSrc="/images/index-h.png" text="名字"> </aboutUsComp>
+          <aboutUsComp imageSrc="/images/index-h.png" text="名字"> </aboutUsComp>
+          <aboutUsComp imageSrc="/images/index-h.png" text="名字"> </aboutUsComp>
+          <aboutUsComp imageSrc="/images/index-h.png" text="名字"> </aboutUsComp>
+          <aboutUsComp imageSrc="/images/index-h.png" text="名字"> </aboutUsComp>
+      </scroll-view>
 
-
-  
-  
+      <view class="intructionContainer">
+          <image class="image" src="{{imageSrc}}"></image>
+          <text class="text">{{text}}</text>
+      </view>
   </view>
+
+  
 
 
 

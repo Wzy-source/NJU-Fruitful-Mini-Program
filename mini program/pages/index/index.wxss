@@ -28,9 +28,12 @@ page{
 }
 
 
+/* .navigatorBar{
+  display: flex;
+} 
 .navigatorBar navigationBarComp{
   width: 20%;
-}
+} */
 
 
 

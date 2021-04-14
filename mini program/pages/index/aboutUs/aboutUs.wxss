@@ -29,3 +29,20 @@
   color: coral ;
   font-size: 28rpx;
 }
+
+.after-content .scroll{
+  white-space: nowrap;
+  padding:60rpx 0;
+}
+
+.after-content .intructionContainer{
+  border:1rpx solid black;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+.after-content .intructionContainer .image{
+  width: 100%;
+}
+
+

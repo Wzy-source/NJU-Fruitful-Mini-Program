@@ -1,7 +1,7 @@
 {
   "usingComponents": {
     "headerLogo":"/components/headerLogo/headerLogo",
-    "newsHeader":"/components/newsHeader/newsHeader"
-
+    "newsHeader":"/components/newsHeader/newsHeader",
+    "aboutUsComp":"/components/aboutUsComp/aboutUsComp"
   }
 }

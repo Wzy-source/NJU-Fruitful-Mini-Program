@@ -135,12 +135,22 @@ Page({
     ],
     headText:"  春华秋实社会实践小分队归属于大气科学学院。本团队现有成员16人,均为本科生。指导老师为大气科学学院团委副书记毕菲菲老师。"
 
+    ,
+    imageSrc:"https://dss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1092770479,843230546&fm=26&gp=0.jpg"
+    ,
+    text:"简介"
   },
+
 
   
   jumpTeamInfo:function(event){
     console.log(event.detail)
   }
 
+  ,
+  changeInformation:function(event){
+    console.log("???")
+    this.setData({text:"???"})
+  }
 
 })

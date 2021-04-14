@@ -1,0 +1,8 @@
+<!--components/aboutUsComp/aboutUsComp.wxml-->
+<view class="container">
+  <image class="image" src="{{imageSrc}}">
+  </image>
+  <view class="text">
+    <text>{{text}}</text>
+  </view>
+</view>
