@@ -6,7 +6,7 @@ Component({
   properties: {
       imageUrl:{
         type:String,
-        value:"https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1391354859,1949870536&fm=26&gp=0.jpg"
+        value:"https://dss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=361625728,1484468435&fm=26&gp=0.jpg"
       },
       toolName:{
         type:String,
@@ -14,7 +14,7 @@ Component({
       },
       intruction:{
         type:String,
-        value:"简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介"
+        value:"工具简介"
       } ,
     navigateUrl:{
       type:String,

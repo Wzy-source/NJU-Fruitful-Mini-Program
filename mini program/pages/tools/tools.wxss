@@ -13,3 +13,12 @@
 page{
   background-color: whitesmoke;
 }
+
+footerLogo{
+
+  position: absolute;
+  width: 100%;
+  bottom: 0rpx;
+  background-color: white;
+  
+}
