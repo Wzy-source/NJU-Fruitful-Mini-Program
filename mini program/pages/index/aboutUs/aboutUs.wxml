@@ -27,14 +27,10 @@
   </view>
   <!-- map后面内容 -->
   <view class="after-content">
-      <scroll-view class="scroll" scroll-x="true">
-          <aboutUsComp imageSrc="/images/index-h.png" text="名字" bindtap="changeInformation"> </aboutUsComp>
-          <aboutUsComp imageSrc="/images/index-h.png" text="名字"> </aboutUsComp>
-          <aboutUsComp imageSrc="/images/index-h.png" text="名字"> </aboutUsComp>
-          <aboutUsComp imageSrc="/images/index-h.png" text="名字"> </aboutUsComp>
-          <aboutUsComp imageSrc="/images/index-h.png" text="名字"> </aboutUsComp>
-          <aboutUsComp imageSrc="/images/index-h.png" text="名字"> </aboutUsComp>
-          <aboutUsComp imageSrc="/images/index-h.png" text="名字"> </aboutUsComp>
+      <scroll-view class="scroll" scroll-x="true" scroll-left="{{offset}}">
+        <view class="nameContainer" wx:for="{{buttons}}" wx:key="id">
+          <aboutUsComp class='{{item.ischecked?"ischecked":"unchecked"}}' imageSrc="/images/index-h.png" text="{{item.name}}" bindtap="changeInformation" data-id="{{item.id}}"> </aboutUsComp>
+        </view>
       </scroll-view>
 
       <view class="intructionContainer">

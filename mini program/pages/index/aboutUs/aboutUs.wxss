@@ -31,8 +31,9 @@
 }
 
 .after-content .scroll{
-  white-space: nowrap;
   padding:60rpx 0;
+  width: 100%;  
+  white-space: nowrap;
 }
 
 .after-content .intructionContainer{
@@ -43,6 +44,15 @@
 }
 .after-content .intructionContainer .image{
   width: 100%;
+}
+
+.after-content .scroll .nameContainer{
+  display: inline-block;
+  width: 22%;
+}
+
+.after-content .scroll .ischecked{
+  border:1rpx solid black
 }
 
 

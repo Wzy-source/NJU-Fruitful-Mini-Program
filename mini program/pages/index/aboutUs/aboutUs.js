@@ -134,23 +134,175 @@ Page({
 
     ],
     headText:"  春华秋实社会实践小分队归属于大气科学学院。本团队现有成员16人,均为本科生。指导老师为大气科学学院团委副书记毕菲菲老师。"
-
     ,
-    imageSrc:"https://dss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1092770479,843230546&fm=26&gp=0.jpg"
-    ,
-    text:"简介"
+    text:"",
+    imageSrc:"https://dss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1092770479,843230546&fm=26&gp=0.jpg",
+    buttons:[
+      {id:1,
+        name:'周银邱',
+        intruction:"我叫周银邱",
+        picSrc:""
+        ,
+        ischecked:""
+      },
+      {id:2,
+        name:'王子悦',
+        intruction:"我叫王子悦",
+        picSrc:""
+        ,
+        ischecked:""
+      },
+      {id:3,
+        name:"郝月婷",
+        intruction:"我叫郝月婷",
+        picSrc:""
+        ,
+        ischecked:""
+      },
+      {id:4,
+        name:'刘琪',
+        intruction:"我叫刘琪",
+        picSrc:""
+        ,
+        ischecked:""
+      },
+      {id:5,
+        name:'王可心',
+        intruction:"我叫王可心",
+        picSrc:""
+        ,
+        ischecked:""
+      },
+      {id:6,
+        name:'何馨',
+        intruction:"我叫何馨",
+        picSrc:""
+        ,
+        ischecked:""
+      },
+      {id:7,
+        name:'姜兴黔',
+        intruction:"我叫姜兴黔",
+        picSrc:""
+        ,
+        ischecked:""
+      },
+      {id:8,
+        name:'刘冠宇',
+        intruction:"我叫刘冠宇",
+        picSrc:""
+        ,
+        ischecked:""
+      },
+      {id:9,
+        name:'杨艺澜',
+        intruction:"我叫杨艺澜",
+        picSrc:""
+        ,
+        ischecked:""
+      },
+      {id:10,
+        name:'左佳毅',
+        intruction:"我叫左佳毅",
+        picSrc:""
+        ,
+        ischecked:""
+      },
+      {id:11,
+        name:'郭哲强',
+        intruction:"我叫郭哲强",
+        picSrc:""
+        ,
+        ischecked:""
+      },
+      {id:12,
+        name:'摆正航',
+        intruction:"我叫摆正航",
+        picSrc:""
+        ,
+        ischecked:""
+      },
+      {id:13,
+        name:"任冒语",
+        intruction:"我叫任冒语",
+        picSrc:''
+        ,
+        ischecked:""
+      },
+      {id:14,
+        name:"张刘洋",
+        intruction:"我叫张刘洋",
+        picSrc:''
+        ,
+        ischecked:""
+      },
+      {id:15,
+        name:"姜玲玲",
+        intruction:"我叫姜玲玲",
+        picSrc:''
+        ,
+        ischecked:""
+      },
+      {id:16,
+        name:'沈正钦',
+        intruction:"我叫沈正钦",
+        picSrc:""
+        ,
+        ischecked:""
+      }
+    ],
+    offset:0
   },
 
 
   
   jumpTeamInfo:function(event){
-    console.log(event.detail)
+    console.log(event.detail.markerId)
+    var makerId=event.detail.markerId;
+    var offset;
+    for(let i = 0; i < this.data.buttons.length; i++){
+      if(makerId==this.data.buttons[i].id){
+        this.data.buttons[i].ischecked=true;
+        offset=82*i;
+      }else{
+        this.data.buttons[i].ischecked=false;
+      }
+    }
+    this.setData({
+      buttons: this.data.buttons,
+      offset:offset,
+      text:this.data.buttons[makerId-1].intruction
+    })
   }
 
   ,
   changeInformation:function(event){
-    console.log("???")
-    this.setData({text:"???"})
-  }
+    var id=event.currentTarget.dataset.id;
+    this.setData({text:this.data.buttons[id-1].intruction})
 
+    for (let i = 0; i < this.data.buttons.length; i++) {
+      if(this.data.buttons[i].id == id){
+        this.data.buttons[i].ischecked=true;
+      }else{
+        this.data.buttons[i].ischecked=false;
+      }
+    }
+    
+    this.setData({
+      buttons: this.data.buttons,
+    })
+    console.log(this.data.buttons[0].ischecked)
+  }
+  ,
+  onLoad: function (options) {
+    for (let i = 0; i < this.data.buttons.length; i++) {
+      this.data.buttons[i].ischecked=false;
+    }
+    this.data.buttons[7].ischecked = true;
+    this.setData({
+      buttons: this.data.buttons,
+      offset:82*7,
+      text:this.data.buttons[7].intruction
+    })
+  }
 })
