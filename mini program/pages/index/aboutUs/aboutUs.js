@@ -141,114 +141,130 @@ Page({
       {id:1,
         name:'刘冠宇',
         intruction:"我叫刘冠宇",
-        picSrc:""
-        ,
-        ischecked:""
+        picSrc:"",
+        ischecked:"",
+        checkedIcon:"/images/头像/刘冠宇2.png",
+        uncheckedIcon:"/images/头像/刘冠宇1.png"
       },
       {id:2,
         name:'王子悦',
         intruction:"我叫王子悦",
-        picSrc:""
-        ,
-        ischecked:""
+        picSrc:"",
+        ischecked:"",
+        checkedIcon:"/images/头像/王子悦2.png",
+        uncheckedIcon:"/images/头像/王子悦1.png"
       },
       {id:3,
         name:"郝月婷",
         intruction:"我叫郝月婷",
-        picSrc:""
-        ,
-        ischecked:""
+        picSrc:"",
+        ischecked:"",
+        checkedIcon:"/images/头像/郝月婷2.png",
+        uncheckedIcon:"/images/头像/郝月婷1.png"
       },
       {id:4,
         name:'刘琪',
         intruction:"我叫刘琪",
-        picSrc:""
-        ,
-        ischecked:""
+        picSrc:"",
+        ischecked:"",
+        checkedIcon:"/images/头像/刘琪2.png",
+        uncheckedIcon:"/images/头像/刘琪1.png"
       },
       {id:5,
         name:'王可心',
         intruction:"我叫王可心",
-        picSrc:""
-        ,
-        ischecked:""
+        picSrc:"",
+        ischecked:"",
+        checkedIcon:"/images/头像/王可心2.png",
+        uncheckedIcon:"/images/头像/王可心1.png"
       },
       {id:6,
         name:'何馨',
         intruction:"我叫何馨",
-        picSrc:""
-        ,
-        ischecked:""
+        picSrc:"",
+        ischecked:"",
+        checkedIcon:"/images/头像/何馨2.png",
+        uncheckedIcon:"/images/头像/何馨1.png"
       },
       {id:7,
         name:'姜兴黔',
         intruction:"我叫姜兴黔",
-        picSrc:""
-        ,
-        ischecked:""
+        picSrc:"",
+        ischecked:"",
+        checkedIcon:"/images/头像/姜兴黔2.png",
+        uncheckedIcon:"/images/头像/姜兴黔1.png"
       },
       {id:8,
         name:'周银邱',
         intruction:"我叫周银邱",
-        picSrc:""
-        ,
-        ischecked:""
+        picSrc:"",
+        ischecked:"",
+        checkedIcon:"/images/头像/周银邱2.png",
+        uncheckedIcon:"/images/头像/周银邱1.png"
       },
       {id:9,
         name:'杨艺澜',
         intruction:"我叫杨艺澜",
-        picSrc:""
-        ,
-        ischecked:""
+        picSrc:"",
+        ischecked:"",
+        checkedIcon:"/images/头像/杨艺澜2.png",
+        uncheckedIcon:"/images/头像/杨艺澜1.png"
       },
       {id:10,
         name:'左佳毅',
         intruction:"我叫左佳毅",
-        picSrc:""
-        ,
-        ischecked:""
+        picSrc:"",
+        ischecked:"",
+        checkedIcon:"/images/头像/左佳毅2.png",
+        uncheckedIcon:"/images/头像/左佳毅1.png"
       },
       {id:11,
         name:'郭哲强',
         intruction:"我叫郭哲强",
-        picSrc:""
-        ,
-        ischecked:""
+        picSrc:"",
+        ischecked:"",
+        checkedIcon:"/images/头像/郭哲强2.png",
+        uncheckedIcon:"/images/头像/郭哲强1.png"
       },
       {id:12,
         name:'摆正航',
         intruction:"我叫摆正航",
-        picSrc:""
-        ,
-        ischecked:""
+        picSrc:"",
+        ischecked:"",
+        checkedIcon:"/images/头像/摆正航2.png",
+        uncheckedIcon:"/images/头像/摆正航1.png"
       },
       {id:13,
         name:"任冒语",
         intruction:"我叫任冒语",
-        picSrc:''
-        ,
-        ischecked:""
+        picSrc:'',
+        ischecked:"",
+        checkedIcon:"/images/头像/任冒语2.png",
+        uncheckedIcon:"/images/头像/任冒语1.png"
       },
       {id:14,
         name:"张刘洋",
         intruction:"我叫张刘洋",
-        picSrc:''
-        ,
-        ischecked:""
+        picSrc:'',
+        ischecked:"",
+        checkedIcon:"/images/头像/张刘洋2.png",
+        uncheckedIcon:"/images/头像/张刘洋1.png"
       },
       {id:15,
         name:"姜玲玲",
         intruction:"我叫姜玲玲",
-        picSrc:''
-        ,
-        ischecked:""
+        picSrc:'',
+        ischecked:"",
+        checkedIcon:"/images/头像/姜玲玲2.png",
+        uncheckedIcon:"/images/头像/姜玲玲1.png"
       },
       {id:16,
         name:'沈正钦',
         intruction:"我叫沈正钦",
-        picSrc:""
-        ,
-        ischecked:""
+        picSrc:"",
+        ischecked:"",
+        checkedIcon:"/images/头像/沈正钦2.png",
+        uncheckedIcon:"/images/头像/沈正钦1.png"
       }
     ],
     offset:0
