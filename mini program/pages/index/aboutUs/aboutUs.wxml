@@ -27,8 +27,8 @@
   </view>
   <!-- map后面内容 -->
   <view class="after-content">
-      <scroll-view class="scroll" scroll-x="true" scroll-left="{{offset}}">
-        <view class="nameContainer" wx:for="{{buttons}}" wx:key="id">
+      <scroll-view  scroll-with-animation class="scroll" scroll-x="true" scroll-left="{{offset}}">
+        <view class='nameContainer' wx:for="{{buttons}}" wx:key="id">
           <aboutUsComp class='{{item.ischecked?"ischecked":"unchecked"}}' imageSrc="/images/index-h.png" text="{{item.name}}" bindtap="changeInformation" data-id="{{item.id}}"> </aboutUsComp>
         </view>
       </scroll-view>
@@ -36,11 +36,8 @@
       <view class="intructionContainer">
           <image class="image" src="{{imageSrc}}"></image>
           <text class="text">{{text}}</text>
+          
       </view>
   </view>
-
-  
-
-
-
 </view>
+<footerLogo/>

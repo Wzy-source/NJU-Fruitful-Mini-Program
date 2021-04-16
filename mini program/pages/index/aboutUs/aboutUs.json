@@ -2,6 +2,7 @@
   "usingComponents": {
     "headerLogo":"/components/headerLogo/headerLogo",
     "newsHeader":"/components/newsHeader/newsHeader",
-    "aboutUsComp":"/components/aboutUsComp/aboutUsComp"
+    "aboutUsComp":"/components/aboutUsComp/aboutUsComp",
+    "footerLogo":"/components/footerLogo/footerLogo"
   }
 }

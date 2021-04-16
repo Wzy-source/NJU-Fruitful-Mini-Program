@@ -1,7 +1,7 @@
 /* pages/index/aboutUs/aboutUs.wxss */
 
 .page-header{
-  border: solid red;
+  
   margin-top: 10rpx;
 }
 .mapContainer{
@@ -17,7 +17,7 @@
 
 .head-content{
   margin-top: 10rpx;
-  border: solid green;
+  
 
 }
 
@@ -31,28 +31,27 @@
 }
 
 .after-content .scroll{
-  padding:60rpx 0;
+  margin-top: 45rpx;
   width: 100%;  
   white-space: nowrap;
+  
 }
 
 .after-content .intructionContainer{
-  border:1rpx solid black;
+
   display:flex;
   flex-direction: column;
   align-items: center;
+  
+  
 }
 .after-content .intructionContainer .image{
   width: 100%;
 }
 
 .after-content .scroll .nameContainer{
+  background-color: whitesmoke;
   display: inline-block;
   width: 22%;
 }
-
-.after-content .scroll .ischecked{
-  border:1rpx solid black
-}
-
 

@@ -8,11 +8,11 @@ Page({
     longitude: 108.9608,
     latitude: 34.26641,
     markers: [{
-        id: 1,
-        // 南京
-        longitude: 119.327869,
-        latitude: 34.092698,
-        name: '周银邱',
+      id:1,
+      // 甘肃兰州
+      longitude: 103.840521,
+      latitude: 36.067235,
+      name:'刘冠宇'
         
       },
       {
@@ -61,11 +61,11 @@ Page({
         name:'姜兴黔'
       },
       {
-        id:8,
-        // 甘肃兰州
-        longitude: 103.840521,
-        latitude: 36.067235,
-        name:'刘冠宇'
+        id: 8,
+        // 南京
+        longitude: 119.327869,
+        latitude: 34.092698,
+        name: '周银邱',
       },
       {
         id:9,
@@ -139,8 +139,8 @@ Page({
     imageSrc:"https://dss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1092770479,843230546&fm=26&gp=0.jpg",
     buttons:[
       {id:1,
-        name:'周银邱',
-        intruction:"我叫周银邱",
+        name:'刘冠宇',
+        intruction:"我叫刘冠宇",
         picSrc:""
         ,
         ischecked:""
@@ -188,8 +188,8 @@ Page({
         ischecked:""
       },
       {id:8,
-        name:'刘冠宇',
-        intruction:"我叫刘冠宇",
+        name:'周银邱',
+        intruction:"我叫周银邱",
         picSrc:""
         ,
         ischecked:""
@@ -263,7 +263,7 @@ Page({
     for(let i = 0; i < this.data.buttons.length; i++){
       if(makerId==this.data.buttons[i].id){
         this.data.buttons[i].ischecked=true;
-        offset=82*i;
+        offset=81*i;
       }else{
         this.data.buttons[i].ischecked=false;
       }
@@ -298,11 +298,11 @@ Page({
     for (let i = 0; i < this.data.buttons.length; i++) {
       this.data.buttons[i].ischecked=false;
     }
-    this.data.buttons[7].ischecked = true;
+    this.data.buttons[0].ischecked = true;
     this.setData({
       buttons: this.data.buttons,
-      offset:82*7,
-      text:this.data.buttons[7].intruction
+      offset:0,
+      text:this.data.buttons[0].intruction
     })
   }
 })
