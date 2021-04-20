@@ -1,6 +1,6 @@
 <!--components/aboutUsComp/aboutUsComp.wxml-->
 <view class="container">
-  <image class="image" src="{{imageSrc}}">
+  <image class="image" src="{{imageSrc}}" lazy-load="true">
   </image>
   <view class="text">
     <text>{{text}}</text>
