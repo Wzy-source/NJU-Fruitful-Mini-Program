@@ -191,128 +191,128 @@ Page({
         intruction:"我叫刘冠宇",
         picSrc:"",
         ischecked:"",
-        checkedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/刘冠宇2.png",
-        uncheckedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/刘冠宇1.png"
+        checkedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/1_2.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721071750&Signature=7eFaIYsrZdUzAhEfgYtAxPigzvw%3D",
+        uncheckedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/1_1.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721071856&Signature=L0%2FLrqf6YWPsujbSnvVU%2F7hURO8%3D"
       },
       {id:2,
         name:'王子悦',
         intruction:"我叫王子悦",
         picSrc:"",
         ischecked:"",
-        checkedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/王子悦2.png",
-        uncheckedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/王子悦1.png"
+        checkedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/2_2.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721071915&Signature=Zyg5SUNPtbbp%2FTKWzKDm384ifRo%3D",
+        uncheckedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/2_1.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721071901&Signature=mz6wJfGuVcWmGxWp4709jPc9WEs%3D"
       },
       {id:3,
         name:"郝月婷",
         intruction:"我叫郝月婷",
         picSrc:"",
         ischecked:"",
-        checkedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/郝月婷2.png",
-        uncheckedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/郝月婷1.png"
+        checkedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/3_2.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721071971&Signature=rnUiUXRu0YkA1wjmxmsmUOqoITw%3D",
+        uncheckedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/3_1.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721071954&Signature=eVUglzeScwXcsEqmQPzRtnlsikI%3D"
       },
       {id:4,
         name:'刘琪',
         intruction:"我叫刘琪",
         picSrc:"",
         ischecked:"",
-        checkedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/刘琪2.png",
-        uncheckedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/刘琪1.png"
+        checkedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/4_2.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072011&Signature=xVExvQoJ%2FwqMYNPKQIi4o6vo0Lk%3D",
+        uncheckedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/4_1.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721071995&Signature=T1IRuGkoYAL%2B4Ej8bhqi72JPvIY%3D"
       },
       {id:5,
         name:'王可心',
         intruction:"我叫王可心",
         picSrc:"",
         ischecked:"",
-        checkedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/王可心2.png",
-        uncheckedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/王可心1.png"
+        checkedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/5_2.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072047&Signature=L1kofDGpB77ln242OMLQ8I%2BGrZ0%3D",
+        uncheckedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/5_1.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072025&Signature=i2QsUZYXG%2F9GFcWjH90VlF0J%2B6M%3D"
       },
       {id:6,
         name:'何馨',
         intruction:"我叫何馨",
         picSrc:"",
         ischecked:"",
-        checkedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/何馨2.png",
-        uncheckedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/何馨1.png"
+        checkedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/6_2.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072080&Signature=lpi8M%2FerimhwSixVFy7d4xZ2KRo%3D",
+        uncheckedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/6_1.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072062&Signature=MXO8sgEOZvWMMJIdmyR8DcGgq5s%3D"
       },
       {id:7,
         name:'姜兴黔',
         intruction:"我叫姜兴黔",
         picSrc:"",
         ischecked:"",
-        checkedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/姜兴黔2.png",
-        uncheckedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/姜兴黔1.png"
+        checkedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/7_2.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072119&Signature=1PUDe6rNpIAY8lslwunt2vMp8XI%3D",
+        uncheckedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/7_1.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072102&Signature=NpSefdF0DTq%2BhhAbz6VmxNZqg0M%3D"
       },
       {id:8,
         name:'周银邱',
         intruction:"我叫周银邱",
         picSrc:"",
         ischecked:"",
-        checkedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/周银邱2.png",
-        uncheckedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/周银邱1.png"
+        checkedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/8_2.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072158&Signature=BRCoGq%2FP7DfcvOd1EvcPGbKT7lc%3D",
+        uncheckedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/8_1.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072144&Signature=j54sv0QSO4Rq0gVJLHyDqKBoU4Y%3D"
       },
       {id:9,
         name:'杨艺澜',
         intruction:"我叫杨艺澜",
         picSrc:"",
         ischecked:"",
-        checkedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/杨艺澜2.png",
-        uncheckedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/杨艺澜1.png"
+        checkedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/9_2.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072194&Signature=gzO411qXf1sfMAIfAUpZ3Mv3fhc%3D",
+        uncheckedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/9_1.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072175&Signature=uPMwFDBmdaJZhLVP8JHssTbB81M%3D"
       },
       {id:10,
         name:'左佳毅',
         intruction:"我叫左佳毅",
         picSrc:"",
         ischecked:"",
-        checkedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/左佳毅2.png",
-        uncheckedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/左佳毅1.png"
+        checkedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/10_2.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072233&Signature=r5G32CNOxycxUDWExwe5K7DZMCc%3D",
+        uncheckedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/10_1.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=2621072210&Signature=1iOUp1TsXdOnJ5UOzqSPOyxUMXQ%3D"
       },
       {id:11,
         name:'郭哲强',
         intruction:"我叫郭哲强",
         picSrc:"",
         ischecked:"",
-        checkedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/郭哲强2.png",
-        uncheckedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/郭哲强1.png"
+        checkedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/11_2.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072267&Signature=e1iGMpF7Hm%2BtG1usxud0jsTAAHY%3D",
+        uncheckedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/11_1.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072250&Signature=Pt9hd42AjfX8AjahZMG1hQ7O57Q%3D"
       },
       {id:12,
         name:'摆正航',
         intruction:"我叫摆正航",
         picSrc:"",
         ischecked:"",
-        checkedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/摆正航2.png",
-        uncheckedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/摆正航1.png"
+        checkedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/12_2.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072295&Signature=UAVO390k8jlt7ud2xAGj%2FPXpBsg%3D",
+        uncheckedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/12_1.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072281&Signature=CXE9yqBYyYotCcR4W8WATBQkBAg%3D"
       },
       {id:13,
         name:"任冒语",
         intruction:"我叫任冒语",
         picSrc:'',
         ischecked:"",
-        checkedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/任冒语2.png",
-        uncheckedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/任冒语1.png"
+        checkedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/13_2.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072338&Signature=6RGOejDE8FU4JG3iiTdXQAaizSQ%3D",
+        uncheckedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/13_1.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072323&Signature=iu4wrjSlywynVWQXR%2B68%2FqtSW6E%3D"
       },
       {id:14,
         name:"张刘洋",
         intruction:"我叫张刘洋",
         picSrc:'',
         ischecked:"",
-        checkedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/张刘洋2.png",
-        uncheckedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/张刘洋1.png"
+        checkedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/14_2.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072365&Signature=0hxaHRD8az8c%2BTeoaAmT%2B62gfBc%3D",
+        uncheckedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/14_1.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072352&Signature=g2Upxyu2Vip1LjOg78VckZ0%2BQas%3D"
       },
       {id:15,
         name:"姜玲玲",
         intruction:"我叫姜玲玲",
         picSrc:'',
         ischecked:"",
-        checkedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/姜玲玲2.png",
-        uncheckedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/姜玲玲1.png"
+        checkedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/15_2.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072396&Signature=9r6D%2FFDTtO8XDgYi2F8mEj2Ugrw%3D",
+        uncheckedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/15_1.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072380&Signature=o4IPNFkyGSEui8TquDNOXskh%2B2o%3D"
       },
       {id:16,
         name:'沈正钦',
         intruction:"我叫沈正钦",
         picSrc:"",
         ischecked:"",
-        checkedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/沈正钦2.png",
-        uncheckedIcon:"http://www.zyyyyds.top/miniProgram/img/头像/沈正钦1.png"
+        checkedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/16_2.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072431&Signature=hpod9UIEmGisHxgNU9NRcePH%2FLs%3D",
+        uncheckedIcon:"https://zyy-lyy-mini-program.oss-cn-hangzhou.aliyuncs.com/images/%E5%A4%B4%E5%83%8F/16_1.png?OSSAccessKeyId=LTAI5t9BkdFHRepa7WyHJkpZ&Expires=1721072412&Signature=GA%2Ffh%2FWks8%2FIriQaOgZnxkhlL0A%3D"
       }
     ],
     offset:0
